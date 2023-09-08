@@ -1,4 +1,4 @@
-User credentials management utility tool
+User credentials management utility
 
 ## Requirements
 
